@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\spark-streaming-example_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\supergloo\SlackStreamingApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\classes\com\supergloo\SlackStreamingApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\supergloo\SlackReceiver$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\classes\com\supergloo\SlackReceiver$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\supergloo\SlackReceiver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\classes\com\supergloo\SlackReceiver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\supergloo\SlackStreamingApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\classes\com\supergloo\SlackStreamingApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\supergloo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\classes\com\supergloo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Dinesh\Desktop\Hadoop\Spark\spark-streaming-example\target\scala-2.11\classes\com[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
